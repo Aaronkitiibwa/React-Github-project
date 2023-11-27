@@ -1,7 +1,6 @@
 import React from "react"
 import ProfileData from "./ProfileData"
-import '@mantine/core/styles.css';
-import { MantineProvider } from '@mantine/core';
+
 
 function App(){
   return(

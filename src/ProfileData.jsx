@@ -1,4 +1,6 @@
 import { useState } from "react";
+import '@mantine/core/styles.css';
+import { MantineProvider } from '@mantine/core';
 // import {useNavigate} from "react-router-dom";
 function ProfileData(){
 
